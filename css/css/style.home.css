@@ -1,0 +1,162 @@
+.cabecario{
+    background-color: #000000;
+    padding: 40px 0;
+
+}
+
+.titulo{
+
+    width: 1255px;
+
+    margin: 0 50px;
+    padding: 20px 0;
+
+    margin-bottom: 30px;
+    border-bottom: 2px solid rgba(225, 255, 255, 0.507);
+
+    font-size: 20pt;
+    color: #ffffff;
+}
+
+.op_navegation ul{
+    list-style: none;
+    margin-left: 33px;
+}
+
+.op_navegation ul li{
+    display: inline;
+    margin: 0 0 0 15px;
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+main{
+    background-color: #ffffff;
+    padding-bottom: 20%;
+}
+.bolo,.doce{
+  position: relative;
+  font-size: 30pt; 
+ 
+  margin-top: 20%;
+  width: 100px;
+  left: 45%;
+
+  padding: 5px;
+  border-bottom: 2px solid rgb(136,133,133);
+  border-radius: 5px;
+
+  color: rgb(136, 133, 133);
+}
+.salgado{
+  position: relative;
+  font-size: 30pt; 
+ 
+  margin-top: 20%;
+  width: 150px;
+  left: 45%;
+
+  padding: 5px;
+  border-bottom: 2px solid rgb(136,133,133);
+  border-radius: 5px;
+
+  color: rgb(136, 133, 133);
+}
+.img_bem_vindos img{
+ position: relative;
+ text-align: center;
+
+ width: 90%;
+ height: 700px;
+ margin: 2% 5%;
+}
+
+figcaption{
+  position: absolute;
+  top: 62%;
+  left: 34%;
+  font-size: 60pt;
+  background-color: #0000002a;
+  /*margin: 50% 50%;*/
+  color: #ffffff;
+  border: 5px solid transparent;
+  border-radius: 5px;
+}
+figcaption p{
+  position: relative;
+  left: 10%;
+}
+.footer-basic {
+    padding:40px 0;
+    color:#f0f0f0;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+ /*.footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }*/
+
+  .footer-basic .social a img{
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+
+
+  .footer-basic ul {
+    padding:40px 0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    display: inline;
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:15px;
+    color:#aaa;
+
+  }
